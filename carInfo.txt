@@ -1,0 +1,6 @@
+Car_one#Black#Polo Tsi#VW#1893#320#Good Car#43118#319950#13.75#72#
+Car_two#Coupe#Audi A1#Audi#1200#180#Bad Car#80000#204900#13.75#72#
+Car_one#Silver#Polo Vivo#VW#11000#1800#Good Car#1500#249900#13.75#72#
+Car_two#Coupe#Urban Cruiser#Toyota#1200#180#Good Car#404990#204900#13.75#72#
+Car_one#Black#Polo T-Cross#VW#1993#180#Good Car#1300#304990#13.75#72#
+Car_two#Hash Back#Audi A1 Sportback#Audi#1200#380#Good Car#1#654480#13.75#48#
